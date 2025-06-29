@@ -1,100 +1,27 @@
-1. What is the primary asset class I am focusing on (equities, bonds, commodities, FX)?
-2. Which geographic regions are relevant to my trading strategy?
-3. Am I interested in leading, lagging, or coincident indicators?
-4. What is the typical time horizon for my structured products?
-5. How sensitive is my strategy to interest rate changes?
-6. Do I need indicators for inflation trends?
-7. Should I track central bank policy announcements?
-8. Is unemployment data relevant to my market?
-9. How important is GDP growth for my analysis?
-10. Should I monitor consumer confidence indices?
-11. Are business sentiment surveys useful for my strategy?
-12. Do I need to track manufacturing or services PMIs?
-13. Is market volatility (e.g., VIX) a key factor?
-14. Should I include credit spreads or bond yields?
-15. Are commodity prices (oil, gold, etc.) relevant?
-16. Do I need to monitor currency exchange rates?
-17. Should I track trade balances or current account data?
-18. Is money supply growth important for my analysis?
-19. Do I need to consider fiscal policy indicators?
-20. Should I monitor government debt levels?
-21. Are housing market indicators relevant?
-22. Should I include retail sales data?
-23. Is industrial production data important?
-24. Do I need to track inventory levels?
-25. Should I monitor wage growth statistics?
-26. Are corporate earnings reports relevant?
-27. Should I include stock market indices?
-28. Is market breadth or advance/decline data useful?
-29. Do I need to track short interest or put/call ratios?
-30. Should I monitor geopolitical risk indicators?
-31. Are there specific war economy indicators to consider?
-32. Should I include recession probability models?
-33. Is yield curve inversion relevant?
-34. Do I need to track global liquidity measures?
-35. Should I monitor cross-asset correlations?
-36. Are there specific volatility regimes I want to identify?
-37. Should I include technical indicators (moving averages, RSI, etc.)?
-38. Is seasonality important for my products?
-39. Do I need to track regulatory or policy changes?
-40. Should I monitor ESG or sustainability indicators?
-41. Are there alternative data sources I should consider?
-42. Should I include sentiment from news or social media?
-43. Is market positioning (COT reports, ETF flows) relevant?
-44. Do I need to track inflation expectations (breakevens, surveys)?
-45. Should I monitor global supply chain indicators?
-46. Are there specific indicators for market stress or crisis?
-47. Should I include data on market liquidity or bid-ask spreads?
-48. Is the frequency of indicator updates important for my strategy?
-49. Do I need to consider data quality and availability?
-50. How will I validate the predictive power of each indicator for my market conditions?
-51. Should I monitor sector rotation trends?
-52. Are cross-border capital flows relevant to my strategy?
-53. Do I need to track sovereign risk ratings or CDS spreads?
-54. Should I include data on corporate bond issuance?
-55. Is private sector credit growth important?
-56. Do I need to monitor bank lending standards?
-57. Should I track household debt levels?
-58. Are demographic trends relevant to my analysis?
-59. Should I include data on labor force participation rates?
-60. Is productivity growth a key factor?
-61. Do I need to monitor technological innovation indicators?
-62. Should I track infrastructure investment data?
-63. Are climate change risks relevant to my strategy?
-64. Should I include data on energy consumption or production?
-65. Is urbanization rate important for my analysis?
-66. Do I need to monitor migration trends?
-67. Should I track political stability indices?
-68. Are there specific election cycles to consider?
-69. Should I include data on government spending patterns?
-70. Is tax policy relevant to my market?
-71. Do I need to monitor pension fund allocations?
-72. Should I track insurance sector trends?
-73. Are there relevant real estate market cycles?
-74. Should I include data on cross-border M&A activity?
-75. Is IPO activity important for my analysis?
-76. Do I need to monitor venture capital or private equity flows?
-77. Should I track fintech adoption rates?
-78. Are there relevant trends in consumer credit?
-79. Should I include data on e-commerce growth?
-80. Is global trade policy relevant to my strategy?
-81. Do I need to monitor tariffs or trade disputes?
-82. Should I track supply chain disruptions?
-83. Are there relevant commodity inventory levels?
-84. Should I include data on shipping rates or freight indices?
-85. Is water scarcity or resource availability important?
-86. Do I need to monitor agricultural output trends?
-87. Should I track weather or natural disaster risks?
-88. Are there relevant cyber risk indicators?
-89. Should I include data on patent filings or R&D spending?
-90. Is healthcare spending relevant to my market?
-91. Do I need to monitor pharmaceutical innovation?
-92. Should I track education or skills development trends?
-93. Are there relevant trends in automation or robotics?
-94. Should I include data on global connectivity or internet usage?
-95. Is mobile payment adoption important for my analysis?
-96. Do I need to monitor cryptocurrency market trends?
-97. Should I track regulatory enforcement actions?
-98. Are there relevant anti-money laundering indicators?
-99. Should I include data on cross-border remittances?
-100. Is the impact of pandemics or health crises relevant to my strategy?
+
+Questions For Database
+Objectifs : 
+    - 15~20 variables, 50X4 quadrimestres
+    - variables = indicateurs macro, Ratios on Economies, fixed income indicators
+    - database Economy USA (S&P500)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
