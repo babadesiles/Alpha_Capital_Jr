@@ -4,11 +4,11 @@ Objectifs :
     - 15~20 variables, 50X4 quadrimestres
     - variables = indicateurs macro, Ratios on Economies, fixed income indicators
     - database Economy USA (S&P500)
-    - trouver des indicateurs qui donne des mouvements de marché similaire :
-        Vol 
-        Trend up or down 
-        +/- Range 
-    - /OU Trouver des quadrimestres similaire, changement predictif, 
+        - trouver des indicateurs qui donne des mouvements de marché similaire :
+            Vol 
+            Trend up or down 
+            +/- Range 
+        - /OU Trouver des quadrimestres similaire, changement predictif, 
 
 
 
