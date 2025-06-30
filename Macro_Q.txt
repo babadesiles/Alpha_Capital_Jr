@@ -10,7 +10,109 @@ Objectifs :
             +/- Range 
         - /OU Trouver des quadrimestres similaire, changement predictif, 
 
+Here’s the complete list of macro-financial indicators with their stock market linkage and key correlations to other variables:
 
+⸻
+
+📊 Macroeconomic Indicators
+	•	GDP Growth
+	•	📈 Linkage: Positive correlation; higher GDP → increased corporate earnings → bullish equities
+	•	🔗 Correlates with: Unemployment (inverse), Consumer Confidence, Industrial Production
+	•	Unemployment Rate
+	•	📉 Linkage: Negative correlation; rising unemployment often signals recessions and falling markets
+	•	🔗 Correlates with: GDP (inverse), Inflation, Consumer Confidence
+	•	Consumer Confidence Index (CCI)
+	•	📈 Linkage: High confidence supports consumption and stock performance
+	•	🔗 Correlates with: GDP, Unemployment, Retail Sales
+	•	Inflation Rate (CPI)
+	•	🧨 Linkage: Moderate inflation supports equities; high inflation is a headwind
+	•	🔗 Correlates with: Interest Rates, Money Supply, Commodity Prices
+	•	Industrial Production Index
+	•	📈 Linkage: Positive correlation with market strength; reflects economic output
+	•	🔗 Correlates with: GDP, Employment, Energy Demand
+	•	Money Supply (M2)
+	•	💧 Linkage: More liquidity boosts short-term equity rallies; too much → inflation
+	•	🔗 Correlates with: Inflation, Interest Rates, Credit Growth
+
+⸻
+
+💸 Monetary & Credit Indicators
+	•	Short-Term Interest Rates (Fed Funds Rate)
+	•	📉 Linkage: Rising rates reduce equity valuations via discounting
+	•	🔗 Correlates with: Inflation, Yield Curve, Money Supply
+	•	Long-Term Interest Rates (10-Year Yield)
+	•	🤔 Linkage: Mixed; may reflect growth or inflation fears
+	•	🔗 Correlates with: Inflation Expectations, CAPE, Mortgage Rates
+	•	Yield Curve Slope (10Y-2Y)
+	•	⏳ Linkage: Inversion signals recession risk; flattening curve is bearish
+	•	🔗 Correlates with: GDP, Equity Returns, Credit Growth
+	•	Corporate Credit Spreads
+	•	📉 Linkage: Widening spreads signal credit stress and often precede equity downturns
+	•	🔗 Correlates with: VIX, Financial Stress Index, Risk Sentiment
+	•	Financial Stress Index (STLFSI, NFCI)
+	•	🛑 Linkage: High stress negatively impacts stock markets
+	•	🔗 Correlates with: Credit Spreads, VIX, Consumer Confidence
+
+⸻
+
+📈 Valuation and Equity Market Indicators
+	•	Valuation Ratios (CAPE, P/E)
+	•	🔁 Linkage: High valuations predict lower long-run returns
+	•	🔗 Correlates with: Earnings Yield, Dividend Yield, Inflation Expectations
+	•	Market Capitalization to GDP
+	•	🧭 Linkage: Over 100% suggests overvaluation; lower = better forward returns
+	•	🔗 Correlates with: GDP, Corporate Profits, Risk Appetite
+	•	Equity Risk Premium
+	•	💹 Linkage: Low ERP = expensive market; High ERP = attractive returns
+	•	🔗 Correlates with: Treasury Yields, Inflation, Corporate Profits
+
+⸻
+
+📉 Volatility & Sentiment Indicators
+	•	VIX (Volatility Index)
+	•	🚨 Linkage: Spikes in VIX signal risk-off; often coincides with or precedes sell-offs
+	•	🔗 Correlates with: Credit Spreads, Stress Indices, Market Reversals
+	•	Investor Sentiment (Bull/Bear Surveys)
+	•	📊 Linkage: Extreme sentiment often contrarian indicator (e.g., high bullishness = top)
+	•	🔗 Correlates with: Equity Flows, Volume, Valuations
+	•	Consumer Sentiment (UMich, Conference Board)
+	•	😃 Linkage: Rising sentiment supports discretionary sectors and risk assets
+	•	🔗 Correlates with: Retail Sales, Stock Returns, Employment
+	•	Economic Policy Uncertainty Index
+	•	🌫️ Linkage: High uncertainty suppresses equity valuations, especially cyclical sectors
+	•	🔗 Correlates with: Volatility, Capital Spending, FX Risk
+	•	Margin Debt (NYSE)
+	•	🧨 Linkage: High leverage often precedes market peaks and corrections
+	•	🔗 Correlates with: Equity Returns, Interest Rates, VIX
+	•	Trading Volume / Turnover
+	•	🌀 Linkage: High turnover = speculative behavior; changes may precede market reversals
+	•	🔗 Correlates with: Sentiment, Margin, Liquidity
+
+⸻
+
+🛢️ Commodities & Global Indicators
+	•	Oil Prices (WTI, Brent)
+	•	🔥 Linkage: Rising oil = inflation, input costs; can hurt broad equity indexes
+	•	🔗 Correlates with: CPI, Industrial Production, USD Index
+	•	Gold Prices
+	•	🛡️ Linkage: Safe-haven; spikes during stress or inflation fears
+	•	🔗 Correlates with: VIX, CPI, Real Rates
+	•	Commodity Price Index (CRB, GSCI)
+	•	📦 Linkage: Rising prices can signal strong global demand or rising inflation
+	•	🔗 Correlates with: Industrial Production, CPI, Oil Prices
+	•	Baltic Dry Index (BDI)
+	•	🚢 Linkage: Leads trade cycles; rising BDI = bullish for industrials/materials
+	•	🔗 Correlates with: Global PMI, Oil Prices, GDP
+	•	US Dollar Index (DXY)
+	•	💵 Linkage: Strong dollar can suppress earnings; inversely linked to commodities
+	•	🔗 Correlates with: Oil, Gold, Exports
+	•	Global Stock Indices (FTSE, Nikkei, MSCI EM)
+	•	🌍 Linkage: International market trends often spill into U.S. equities
+	•	🔗 Correlates with: FX Rates, Trade Balance, Risk Appetite
+
+⸻
+
+If you’d like, I can organize this list into a structured spreadsheet or help map it into a data architecture for your quantitative model.
 
  Indicateurs de conjoncture économique
 	1.	PIB réel (growth rate trimestriel/annuel)
