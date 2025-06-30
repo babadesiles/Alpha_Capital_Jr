@@ -12,7 +12,91 @@ Objectifs :
 
 
 
+ Indicateurs de conjoncture économique
+	1.	PIB réel (growth rate trimestriel/annuel)
+	2.	Taux de chômage (global + par tranche d’âge/sexe si possible)
+	3.	Taux d’inflation (IPC + déflateur du PIB)
+	4.	Production industrielle
+	5.	Indices PMI (manufacturier & services)
+	6.	Taux d’utilisation des capacités industrielles
 
+⸻
+
+ Indicateurs monétaires & financiers
+	7.	Taux directeur des banques centrales (Fed, BCE, etc.)
+	8.	Taux d’intérêt à court et long terme (2 ans, 10 ans, 30 ans)
+	9.	Différentiels de taux (2Y-10Y) → pour capturer les inversions de courbe
+	10.	Taux de change effectif réel (REER) ou nominal (ex. EUR/USD)
+	11.	Agrégats monétaires (M2, M3)
+	12.	Inflation anticipée (break-even) sur les TIPS ou swaps d’inflation
+
+⸻
+
+ Indicateurs de politique budgétaire
+	13.	Déficit budgétaire / PIB
+	14.	Dette publique / PIB
+	15.	Taux d’imposition marginal / effectif
+	16.	Dépenses publiques (% PIB)
+
+⸻
+
+ Indicateurs de commerce international
+	17.	Balance commerciale / compte courant
+	18.	Exportations / Importations
+	19.	Terms of Trade (TOT)
+	20.	Volume mondial du commerce (ex : CPB World Trade Monitor)
+
+⸻
+
+ Indicateurs sectoriels
+	21.	Prix de l’immobilier résidentiel/commercial
+	22.	Ratio prix / revenu & prix / loyer
+	23.	Volume des permis de construire
+	24.	Ratio dette des ménages / revenu disponible
+
+⸻
+
+ Marché du travail / salaires
+	25.	Salaires nominaux et réels
+	26.	Indice de productivité du travail
+	27.	Taux de participation à la population active
+
+⸻
+
+ Indicateurs de marché
+	28.	Cours des actions (indices globaux + sectoriels)
+	29.	Volatilité implicite (VIX, etc.)
+	30.	Flux vers fonds obligataires/actions (sentiment)
+	31.	Rendement obligataire corporate (AAA, BBB, high yield)
+
+⸻
+
+ Indicateurs de sentiment ou anticipation
+	32.	Consumer Confidence Index (ex : U. of Michigan, Conference Board)
+	33.	Business confidence / sentiment
+	34.	Survey of Professional Forecasters (inflation, croissance, taux)
+
+⸻
+
+ Indicateurs structurels
+	35.	Taux de croissance de la productivité
+	36.	Dépenses en R&D (% PIB)
+	37.	Indice de développement humain / éducation
+	38.	Indice de flexibilité du marché du travail
+
+⸻
+
+ Indicateurs pour segmentation de régimes de marché
+	39.	Cycle de crédit (création/destruction de crédit)
+	40.	Phase du cycle économique (expansion / contraction / récession / reprise)
+	41.	Conditions financières (Financial Conditions Index)
+
+⸻
+
+ Approche Machine Learning & Structuration
+	•	Regroupe les variables en features engineering : momentum, moyenne glissante, surprise vs consensus, z-score, etc.
+	•	Inclure des étiquettes (labels) comme “régime haussier actions”, “reflation”, “stagflation”, “crise systémique”, etc.
+	•	Corréler avec performances de stratégies (ex. rendement produit structuré à capital garanti sur période t)
 
 
 
